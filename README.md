@@ -1,4 +1,6 @@
 # Bilibili-Video-Downloader
+请raw预览此说明，否则排版有问题
+
 b站视频下载，需要你的cookie和ffmpeg.exe（ffmpeg自行搜索下载）
 
 创建如下目录：
